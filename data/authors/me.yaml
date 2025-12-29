@@ -2,115 +2,148 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Yongdae Kim
+  given: Yongdae 
+  family: Kim
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
   pronouns: he/him
 postnominals:
   - PhD
-  - MIEEE
+  - IEEE Fellow
 status:
   icon: "☕️"
-role: Senior AI Research Scientist
+role: Professor
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+ Yongdae Kim (IEEE Fellow) is a Professor in the Department of 
+ Electrical Engineering and the Graduate School of Information 
+ Security at KAIST, where he holds the KAIST ICT Endowed Chair 
+ Professorship and is a member of the National Academy of Engineering 
+ of Korea. He received his PhD in Computer Science from the University 
+ of Southern California in 2002 and was on the faculty at the University 
+ of Minnesota until 2012. He previously served as Chair Professor at KAIST 
+ (2013–2016) and Director of the KAIST Cyber Security Research Center 
+ (2018–2020). He currently serves as the steering committee chair for 
+ NDSS and has chaired major conferences including ACM CCS and ACM
+ WiSec. His research focuses on discovering and analyzing security
+ vulnerabilities in emerging systems such as cellular networks, drones,
+ and autonomous vehicles.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: KAIST
+    url: https://www.kaist.ac.kr
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:yongdaek@kaist.ac.kr
     label: E-mail Me
   - icon: brands/x
-    url: https://x.com/example
-  - icon: brands/github
-    url: https://github.com/example
+    url: https://x.com/yongdaek
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: https://www.linkedin.com/in/yongdae-kim-602637200/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
+    url: https://scholar.google.com/citations?user=hLVtE9cAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0003-4879-1262
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Cellular Security (LTE, 5G, 6G, ...)
+  - Drone Security
+  - Security of Self-driving Card
+  - CPS Security
 
 education:
   - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
-    summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+    institution: University of Southern California
+    start: 1998-09-01
+    end: 2002-05-30
+  - degree: MS Mathematics
+    institution: Yonsei University
+    start: 1991-03-01
+    end: 1993-02-28
+  - degree: BS Mathematics
+    institution: Yonsei University
+    start: 1987-03-01
+    end: 1991-02-28
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
-    summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
-
-skills:
-  - name: Technical Skills
-    items:
-      - label: Python
-        level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
-        level: 4
-  - name: Research & Communication
-    items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
-        level: 4
-
-languages:
-  - name: English
-    level: 5
-    label: Native
-  - name: Spanish
-    level: 4
-    label: Fluent
+  - role: ICT Chair Professor 
+    org: KAIST
+    start: 2025-03-01
+  - role: Member
+    org: National Academy of Engineering of Korea
+    start: 2025-03-01
+  - role: Fellow
+    org: IEEE
+    start: 2024-01-01
+  - role: Head
+    org: Police Science and Technology Research Center, KAIST
+    start: 2022-04-01
+  - role: Professor
+    org: School of Electrical Engineering, KAIST
+    start: 2012-08-01
+  - role: Professor (Joint Appointment)
+    org: Graduate School of Information Security, KAIST
+    start: 2012-08-01
+  - role: Head
+    org: Cyber Security Research Center, KAIST
+    start: 2017-12-01
+    end: 2020-02-28
+  - role: KAIST Chair Professor
+    org: KAIST
+    start: 2013-01-01
+    end: 2015-12-31
+  - role: Assistant/Associate Professor
+    org: Dept. of Computer Science, University of Minnesota, Twin Cities
+    start: 2002-08-01
+    end: 2012-06-30
+  - role: McKnight Land-Grant Professor
+    org: KUniversity of Minnesota, Twin Cities
+    start: 2006-07-01
+    end: 2008-06-30
+  - role: Visiting Researcher
+    org: UC Irvine
+    start: 2001-01-01
+    end: 2002-07-31
+  - role: Member of Research Staf
+    org: Electronics and Telecommunication Research Institute
+    start: 1993-02-01
+    end: 1998-08-31
 
 awards:
+  - title: Distinguished Paper Award
+    awarder: ACM CCS
+    date: "2025-10-15"
+    icon: hero/trophy
+  - title: Member
+    awarder: The National Academy of Engineering of Korea
+    date: "2025-01-01"
+    icon: hero/trophy
+  - title: ICT Chair Professor
+    awarder: KAIST
+    date: "2025-03-01"
+    icon: hero/trophy
+  - title: Fellow
+    awarder: IEEE
+    date: "2024-03-01"
+    icon: hero/trophy
+  - title: Best Teaching Award
+    awarder: KAIST Electrical Engineering
+    date: "2022-03-01"
+    icon: hero/trophy
   - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
+    awarder: ACM WISEC
+    date: "2016-10-01"
+    icon: hero/trophy
+  - title: KAIST Chair Professor
+    awarder: KAIST
+    date: "2013-01-01"
+    icon: hero/trophy
+  - title: McKnight Land-Grant Professorship Award
+    awarder: University of Minnesota, Twin Cities
+    date: "2006-01-01"
+    icon: hero/trophy
+  - title: Career Award
+    awarder: NSF
+    date: "2005-01-01"
     icon: hero/trophy

@@ -6,7 +6,7 @@ title: 'An example conference paper'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - me
-  - Robert Ford
+  - robert-ford
 
 # Author notes (optional)
 author_notes:

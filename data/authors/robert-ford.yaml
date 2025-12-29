@@ -1,0 +1,6 @@
+schema: hugoblox/author/v1
+slug: robert-ford
+name:
+  display: "Robert Ford"
+  given: Robert
+  family: Ford
