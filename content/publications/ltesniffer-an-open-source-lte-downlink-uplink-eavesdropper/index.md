@@ -24,5 +24,5 @@ links:
 
 ## Impact
 
-LTESniffer is open-sourced at
+LTESniffer is open-sourced at https://github.com/SysSec-KAIST/LTESniffer). It is very popular in github, receiving 1,212 stars with 128 forked project. There are at least five youtube videos explaining how to use LTESniffer with more than 2k views. As far as I know, there are three commercial counterparts (Wavejudge, ThinkRF and Airscope): The first one supporting uplink and downlink sniffing costing USD 25,000 and the last one only supports downlink sniffing.
 

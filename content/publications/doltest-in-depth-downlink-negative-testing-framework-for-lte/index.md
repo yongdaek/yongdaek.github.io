@@ -29,5 +29,5 @@ tags:
 
 ## Impact
 
-This paper was discussed in a
+This paper was discussed in a 3GPP SA3 meeting. It is currently open-sourced at https://github.com/SysSec-KAIST/DoLTEst. We uncovered 26 implementation flaws from 43 devices from 5 different baseband manufacturers by using DoLTEst. We have received 3 CVEs (CVE-2019-2289 from Qualcomm, CVE-2021-25516 from Samsung, and CVE-2021-30826 from Apple.) The Qualcomm bug allows an authentication bypass in all baseband processors manufactured by Qualcomm, requiring almost one year to finish the patch process.
 
