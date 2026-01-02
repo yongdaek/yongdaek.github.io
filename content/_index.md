@@ -57,15 +57,24 @@ sections:
     design:
       columns: '1'
   - block: collection
+    id: publications
     content:
       title: Publications
-      text: ''
       filters:
         folders:
           - publications
-        exclude_featured: false
+        featured_only: false
     design:
-      view: compact
+      view: citation     # ← compact 대신 citation
+      columns: 1
+
+  - block: resume-experience
+    id: experience
+    content:
+      username: me
+    design:
+      columns: 1
+
   - block: markdown
     id: awards
     content:
