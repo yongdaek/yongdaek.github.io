@@ -1,7 +1,7 @@
 ---
 title: "Cellular Security Research"
 subtitle: "Overview (2012-2025)"
-date: 2025-01-03
+date: 2025-01-04
 type: page
 ---
 Over the past 15 years, I have been working on various issues on cellular security and published more than 18 papers in this topic. This page provides an overview of my research in this field and highlights the main findings and insights gained as well as its impact.
