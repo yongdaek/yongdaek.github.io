@@ -1,5 +1,5 @@
 ---
-title: 'Losing control of the internet: using the data plane to attack the control plane'
+title: 'Losing Control of the Internet: Using the Data Plane to Attack the Control Plane'
 authors:
 - Max Schuchard
 - Abedelaziz Mohaisen
@@ -7,15 +7,15 @@ authors:
 - Nicholas Hopper
 - Yongdae Kim
 - Eugene Y. Vasserman
-date: '2010-01-01'
-publication: Proceedings of the 17th ACM Conference on Computer and Communications Security, CCS 2010, Chicago, Illinois, USA, October 4-8, 2010
+date: '2011-01-01'
+publication: Proceedings of the Network and Distributed System Security Symposium, NDSS 2011, San Diego, California, USA, 6th February - 9th February 2011
 publication_types:
 - '1'
 abstract: ''
 featured: false
 links:
 - name: DOI
-  url: https://doi.org/10.1145/1866307.1866411
+  url: https://www.ndss-symposium.org/ndss2011/losing-control-internet-using-data-plane-attack-control-plane
 ---
 
 ## Media Coverage

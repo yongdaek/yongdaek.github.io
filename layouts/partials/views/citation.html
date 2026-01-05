@@ -24,13 +24,20 @@
   </div>
   {{ end }}
 
-  {{/* Impact - Simple approach */}}
-  {{ if $item.Plain }}
-    {{ $plain := $item.Plain }}
-    {{ if (findRE "Impact" $plain) }}
-      <div style="margin-top: 0.5rem; padding-left: 1.5rem; color: #555; font-size: 0.9rem;">
-        <em>{{ $item.Plain | truncate 500 }}</em>
-      </div>
+  {{/* Impact */}}
+  {{ $raw := $item.RawContent }}
+  {{ if (in $raw "## Impact") }}
+    {{ $parts := split $raw "## Impact" }}
+    {{ if gt (len $parts) 1 }}
+      {{ $impactSection := index $parts 1 }}
+      {{ $impactEnd := split $impactSection "##" }}
+      {{ $impactText := index $impactEnd 0 }}
+      {{ $impactClean := trim $impactText "\n " }}
+      {{ if $impactClean }}
+        <div style="margin-top: 0.5rem; padding-left: 1.5rem;">
+          <strong>Impact:</strong> {{ $impactClean | markdownify }}
+        </div>
+      {{ end }}
     {{ end }}
   {{ end }}
 
@@ -54,13 +61,20 @@
   </div>
   {{ end }}
 
-  {{/* Impact - Simple approach */}}
-  {{ if $item.Plain }}
-    {{ $plain := $item.Plain }}
-    {{ if (findRE "Impact" $plain) }}
-      <div style="margin-top: 0.5rem; padding-left: 1.5rem; color: #555; font-size: 0.9rem;">
-        <em>{{ $item.Plain | truncate 500 }}</em>
-      </div>
+  {{/* Impact */}}
+  {{ $raw := $item.RawContent }}
+  {{ if (in $raw "## Impact") }}
+    {{ $parts := split $raw "## Impact" }}
+    {{ if gt (len $parts) 1 }}
+      {{ $impactSection := index $parts 1 }}
+      {{ $impactEnd := split $impactSection "##" }}
+      {{ $impactText := index $impactEnd 0 }}
+      {{ $impactClean := trim $impactText "\n " }}
+      {{ if $impactClean }}
+        <div style="margin-top: 0.5rem; padding-left: 1.5rem;">
+          <strong>Impact:</strong> {{ $impactClean | markdownify }}
+        </div>
+      {{ end }}
     {{ end }}
   {{ end }}
 

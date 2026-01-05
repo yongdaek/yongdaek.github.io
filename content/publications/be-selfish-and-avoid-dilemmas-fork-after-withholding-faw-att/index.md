@@ -7,14 +7,14 @@ authors:
 - Eugene Y. Vasserman
 - Yongdae Kim
 date: '2017-01-01'
-publication: CoRR
+publication: Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications Security, CCS 2017, Dallas, TX, USA, October 30 - November 03, 2017
 publication_types:
-- '2'
+- '1'
 abstract: ''
 featured: false
 links:
 - name: DOI
-  url: http://arxiv.org/abs/1708.09790
+  url: https://doi.org/10.1145/3133956.3134019
 ---
 
 ## Media Coverage

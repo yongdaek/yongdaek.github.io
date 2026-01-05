@@ -6,14 +6,14 @@ authors:
 - Max Schuchard
 - Haiyong Xie
 - Yongdae Kim
-date: '2012-01-01'
-publication: the ACM Conference on Computer and Communications Security, CCS'12, Raleigh, NC, USA, October 16-18, 2012
+date: '2013-01-01'
+publication: 8th ACM Symposium on Information, Computer and Communications Security, ASIA CCS '13, Hangzhou, China - May 08 - 10, 2013
 publication_types:
 - '1'
 abstract: ''
 featured: false
 links:
 - name: DOI
-  url: https://doi.org/10.1145/2382196.2382305
+  url: https://doi.org/10.1145/2484313.2484335
 ---
 

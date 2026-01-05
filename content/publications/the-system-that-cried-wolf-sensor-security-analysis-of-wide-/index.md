@@ -6,13 +6,13 @@ authors:
 - Dohyun Kim
 - Yongdae Kim
 date: '2020-01-01'
-publication: IACR Cryptol. ePrint Arch.
+publication: ACM Trans. Priv. Secur.
 publication_types:
 - '2'
 abstract: ''
 featured: false
 links:
 - name: DOI
-  url: https://eprint.iacr.org/2020/562
+  url: https://doi.org/10.1145/3393926
 ---
 

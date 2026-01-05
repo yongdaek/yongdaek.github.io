@@ -7,13 +7,13 @@ authors:
 - Dawn Song
 - Yongdae Kim
 date: '2019-01-01'
-publication: CoRR
+publication: Proceedings of the 1st ACM Conference on Advances in Financial Technologies, AFT 2019, Zurich, Switzerland, October 21-23, 2019
 publication_types:
-- '2'
+- '1'
 abstract: ''
 featured: false
 links:
 - name: DOI
-  url: http://arxiv.org/abs/1905.05158
+  url: https://doi.org/10.1145/3318041.3355463
 ---
 

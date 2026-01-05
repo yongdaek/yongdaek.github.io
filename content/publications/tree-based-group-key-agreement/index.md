@@ -1,17 +1,17 @@
 ---
-title: Tree-based Group Key Agreement
+title: Tree-based group key agreement
 authors:
 - Yongdae Kim
 - Adrian Perrig
 - Gene Tsudik
-date: '2002-01-01'
-publication: IACR Cryptol. ePrint Arch.
+date: '2004-01-01'
+publication: ACM Trans. Inf. Syst. Secur.
 publication_types:
 - '2'
 abstract: ''
 featured: false
 links:
 - name: DOI
-  url: http://eprint.iacr.org/2002/009
+  url: https://doi.org/10.1145/984334.984337
 ---
 

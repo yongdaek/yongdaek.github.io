@@ -5,14 +5,14 @@ authors:
 - Yujin Kwon
 - Yongdae Kim
 date: '2019-01-01'
-publication: CoRR
+publication: 2019 IEEE European Symposium on Security and Privacy Workshops, EuroS\&P Workshops 2019, Stockholm, Sweden, June 17-19, 2019
 publication_types:
-- '2'
+- '1'
 abstract: ''
 featured: false
 links:
 - name: DOI
-  url: http://arxiv.org/abs/1904.13302
+  url: https://doi.org/10.1109/EuroSPW.2019.00048
 - name: Project
   url: https://sites.google.com/view/stellar-analysis
 ---

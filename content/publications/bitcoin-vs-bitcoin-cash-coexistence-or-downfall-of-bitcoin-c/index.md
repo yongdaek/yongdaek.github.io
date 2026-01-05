@@ -6,13 +6,13 @@ authors:
 - Jinwoo Shin
 - Yongdae Kim
 date: '2019-01-01'
-publication: CoRR
+publication: 2019 IEEE Symposium on Security and Privacy, SP 2019, San Francisco, CA, USA, May 19-23, 2019
 publication_types:
-- '2'
+- '1'
 abstract: ''
 featured: false
 links:
 - name: DOI
-  url: http://arxiv.org/abs/1902.11064
+  url: https://doi.org/10.1109/SP.2019.00075
 ---
 
