@@ -1,0 +1,18 @@
+---
+title: Trustworthy distributed computing on social networks
+authors:
+- Abedelaziz Mohaisen
+- Huy Tran
+- Abhishek Chandra
+- Yongdae Kim
+date: '2013-01-01'
+publication: 8th ACM Symposium on Information, Computer and Communications Security, ASIA CCS '13, Hangzhou, China - May 08 - 10, 2013
+publication_types:
+- '1'
+abstract: ''
+featured: false
+links:
+- name: DOI
+  url: https://doi.org/10.1145/2484313.2484332
+---
+
