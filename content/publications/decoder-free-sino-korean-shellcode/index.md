@@ -6,7 +6,7 @@ authors:
 - Yongdae Kim
 - Hae Young Lee
 date: '2016-01-01'
-publication: International Conference on Software Security and Assurance, ICSSA 2016, St. P\"olten, Austria, August 24-25, 2016
+publication: International Conference on Software Security and Assurance, ICSSA 2016, St. Pölten, Austria, August 24-25, 2016
 publication_types:
 - '1'
 abstract: ''

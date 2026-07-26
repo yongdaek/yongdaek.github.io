@@ -22,5 +22,5 @@ links:
 - Cointelegraph: Stellar’s Blockchain Briefly Goes Offline
 - Confirming the Project Lacks Decentralization
 - Safety vs. Liveness in the Stellar Network
-- David Mazi\'eres
+- David Mazières
 

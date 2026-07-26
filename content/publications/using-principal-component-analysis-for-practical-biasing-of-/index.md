@@ -11,6 +11,6 @@ abstract: ''
 featured: false
 links:
 - name: DOI
-  url: https://doi.org/10.1007/978-3-319-12160-4\_7
+  url: https://doi.org/10.1007/978-3-319-12160-4_7
 ---
 

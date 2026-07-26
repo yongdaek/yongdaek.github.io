@@ -1,5 +1,5 @@
 ---
-title: 'Doppelg\"angers on the Dark Web: A Large-scale Assessment on Phishing Hidden Web Services'
+title: 'Doppelgängers on the Dark Web: A Large-scale Assessment on Phishing Hidden Web Services'
 authors:
 - Changhoon Yoon
 - Kwanwoo Kim

@@ -14,6 +14,6 @@ abstract: ''
 featured: false
 links:
 - name: DOI
-  url: https://doi.org/10.1007/978-3-319-31875-2\_25
+  url: https://doi.org/10.1007/978-3-319-31875-2_25
 ---
 
