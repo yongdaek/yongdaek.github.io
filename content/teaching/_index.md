@@ -5,7 +5,7 @@ type: page
 weight: 3
 ---
 
-**Security of Emerging Systems**  
+**[Security of Emerging Systems](/teaching/ee515/)**
 Autumn 2025, Autumn 2024, Autumn 2023, Autumn 2022
 
 **Special Topics: Introduction to Cybersecurity for EE**  
